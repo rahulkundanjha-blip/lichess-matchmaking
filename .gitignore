@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+# Data is downloaded, not redistributed (see tools/get_data.sh)
+data/*.csv
